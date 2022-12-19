@@ -41,7 +41,7 @@
 
 
 ## 🌐 Socials
-[![LinkedIn](https://www.linkedin.com/in/utkarsh-jain-a068b921b/)
+<a href="https://www.linkedin.com/in/utkarsh-jain-a068b921b/" LinkedIn</a>
 
 <br/>
 
