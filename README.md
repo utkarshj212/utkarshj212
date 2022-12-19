@@ -41,8 +41,7 @@
 
 
 ## 🌐 Socials
-<a href="https://www.linkedin.com/in/utkarsh-jain-a068b921b/" LinkedIn</a>
-
+  <a href="https://www.linkedin.com/in/utkarsh-jain-a068b921b/">LinkedIn</a>
 <br/>
 
 <h2 align="center">💻 Tech Stack</h2>
@@ -108,14 +107,3 @@
     <a href="https://github.com/utkarshj212/github-readme-stats"><img alt="lokesh-patidar Github Stats" src="https://github-readme-stats.vercel.app/api?username=utkarshj212&show_icons=true&locale=en&theme=react&hide_border=true&bg_color=0D1117" alt="utkarshj212" /></a>
     </p>                                                                 
  <h6 align="center"> 
-
-
-<br/>
-<br/>
-
-  <br/>
-
-<a href="https://github.com/utkarshj212/github-readme-activity-graph"><img alt="utkarshj212 Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=utkarshj212&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
-<br/>
-<br/>
