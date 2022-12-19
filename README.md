@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Sachin Pathe</h1>
+<h1 align="center">Hi 👋, I'm Utkarsh Jain</h1>
 
 <div align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Hi! My self Sachin Pathe 👦🏽; I am a Full-stack%20web%20developer 👨🏻‍💻; Interested in working with team;Curious%20to%20learn%20new%20things !&font=Fira%20Code&center=true&width=440&height=45&color=#37bcf7&vCenter=true&size=22&pause=1000"></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=Hi! My self Utkarsh Jain 👦🏽; I am a Full-stack%20web%20developer 👨🏻‍💻; Interested in working with team;Curious%20to%20learn%20new%20things !&font=Fira%20Code&center=true&width=440&height=45&color=#37bcf7&vCenter=true&size=22&pause=1000"></a>
 </p>
 
 
@@ -15,9 +15,9 @@
 <h5>I'm a passionate Full Stack Web developer skilled in MERN stack who likes to do experiments and always ready for learning new things 😃. I focuses on writing clean, elegant and efficient code ✨ with an aspiration to build new features from ideation to production, implementation of frameworks, and design flows that enable users to have a seamless experience. I take into consideration writing reusable and efficient code. I have been passionately combining good design, technology, and innovation in all my projects.</h5>
 
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=SachinMasai&label=Profile%20views&color=0e75b6&style=flat" alt="SAchinMasair" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=utkarshj212&label=Profile%20views&color=0e75b6&style=flat" alt="utkarshj212" /> </p>
 
-  [![trophy](https://github-profile-trophy.vercel.app/?username=SachinMasai&theme=darkhub)](https://github.com/SachinMasai/github-profile-trophy)
+  [![trophy](https://github-profile-trophy.vercel.app/?username=utkarshj212&theme=darkhub)](https://github.com/utkarshj212/github-profile-trophy)
 
 
 🔭 I’m currently exploring and polishing my skills
@@ -93,19 +93,19 @@
 <h2 align="center">📊 My Github Stats</h2>
    <br/>   
     <p align="center">      
-  <a href="https://github.com/SachinMasai/github-readme-stats"><img alt="SachinMasai Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SachinMasai&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/utkarshj212/github-readme-stats"><img alt="utkarshj212 Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=utkarshj212&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
       </p>      
      <br/>
    <p align="center">
-    <a href="https://github.com/SachinMasai/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="SachinMasaiStreak" src="https://github-readme-streak-stats.herokuapp.com/?user=SachinMasai&hide_border=true&theme=react&hide_border=true&bg_color=0D1117"/>
+    <a href="https://github.com/utkarshj212/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="utkarshj212Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=utkarshj212&hide_border=true&theme=react&hide_border=true&bg_color=0D1117"/>
     </a>
 </p>                                                                                                                                              
 
   <br/>
   <br/>
      <p align="center">                                                                                                 
-    <a href="https://github.com/SachinMasai/github-readme-stats"><img alt="lokesh-patidar Github Stats" src="https://github-readme-stats.vercel.app/api?username=SachinMasai&show_icons=true&locale=en&theme=react&hide_border=true&bg_color=0D1117" alt="SachinMasai" /></a>
+    <a href="https://github.com/utkarshj212/github-readme-stats"><img alt="lokesh-patidar Github Stats" src="https://github-readme-stats.vercel.app/api?username=utkarshj212&show_icons=true&locale=en&theme=react&hide_border=true&bg_color=0D1117" alt="utkarshj212" /></a>
     </p>                                                                 
  <h6 align="center"> 
 
@@ -115,7 +115,7 @@
 
   <br/>
 
-<a href="https://github.com/SachinMasai/github-readme-activity-graph"><img alt="SachinMasai Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=SachinMasai&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/utkarshj212/github-readme-activity-graph"><img alt="utkarshj212 Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=utkarshj212&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
